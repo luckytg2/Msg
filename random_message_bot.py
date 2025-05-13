@@ -10,7 +10,7 @@ API_HASH = "f78a8ae025c9131d3cc57d9ca0fbbc30"
 BOT_TOKEN = "7670235524:AAG8xvJ6ppR9ZHf3Df3Fd25pmKWAInbzhVM"
 
 # Chat ID to send messages (replace with your chat ID or username)
-CHAT_ID = "-1002271393686"
+CHAT_ID = "@india_best_crypto"
 
 # Messages to send randomly
 MESSAGES = [
